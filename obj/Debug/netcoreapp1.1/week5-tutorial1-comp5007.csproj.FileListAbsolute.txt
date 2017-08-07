@@ -1,0 +1,4 @@
+C:\Users\10012591\desktop\week5-tutorial1-comp5007\bin\Debug\netcoreapp1.1\week5-tutorial1-comp5007.deps.json
+C:\Users\10012591\desktop\week5-tutorial1-comp5007\bin\Debug\netcoreapp1.1\week5-tutorial1-comp5007.runtimeconfig.json
+C:\Users\10012591\desktop\week5-tutorial1-comp5007\bin\Debug\netcoreapp1.1\week5-tutorial1-comp5007.runtimeconfig.dev.json
+C:\Users\10012591\desktop\week5-tutorial1-comp5007\obj\Debug\netcoreapp1.1\week5-tutorial1-comp5007.AssemblyInfo.cs
